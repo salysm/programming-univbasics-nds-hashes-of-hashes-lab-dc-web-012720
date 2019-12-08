@@ -35,7 +35,10 @@ def naming_system = {
     phylum: =>{
       class: =>{
         order: =>{
-          
+         familly: => {
+           genus: => {
+             species: =>{}
+         } 
         }
       }
     }
