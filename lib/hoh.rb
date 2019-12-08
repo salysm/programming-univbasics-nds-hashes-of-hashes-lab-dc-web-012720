@@ -30,7 +30,9 @@
 #   sub_category: nil
 # }
 
-def naming_system
+def naming_system = {
+  kingdom: =>
+}
   # Remember:
   #  Kingdom
   #  Phylum
