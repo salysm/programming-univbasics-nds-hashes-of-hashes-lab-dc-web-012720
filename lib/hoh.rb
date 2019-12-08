@@ -30,7 +30,20 @@
 #   sub_category: nil
 # }
 
-def naming_system
+def naming_system = {
+  kingdom: => {
+    phylum: =>{
+      class: =>{
+        order: =>{
+         familly: => {
+           genus: => {
+             species: =>{}
+         } 
+        }
+      }
+    }
+  }
+}
   # Remember:
   #  Kingdom
   #  Phylum
